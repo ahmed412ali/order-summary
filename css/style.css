@@ -89,3 +89,9 @@ body {
     padding: 1rem;
     text-decoration: none;
 }
+
+@media screen and ( max-width: 375px) {
+    .container{ 
+        margin: 1rem;
+    }    
+}
